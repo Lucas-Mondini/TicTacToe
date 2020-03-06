@@ -1,0 +1,4 @@
+made by - Lucas Fellipe
+
+This is a Tic-Tac-Toe game made in C++.
+this game run totaly in console.
